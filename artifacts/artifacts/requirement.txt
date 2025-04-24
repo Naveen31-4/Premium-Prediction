@@ -1,0 +1,11 @@
+pandas : 2.2.2
+
+mumpy : 1.26.4
+
+joblib : 1.4.2
+
+sci-kit-learn : 1.5.0
+
+streamlit : 1.44.1
+
+xgboost : 3.0.0
