@@ -4,7 +4,7 @@ mumpy : 1.26.4
 
 joblib : 1.4.2
 
-sci-kit-learn : 1.5.0
+scikit-learn : 1.5.0
 
 streamlit : 1.44.1
 
