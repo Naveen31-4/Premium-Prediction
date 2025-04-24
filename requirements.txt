@@ -1,6 +1,6 @@
 pandas==2.2.2
 
-mumpy==1.26.4
+numpy==1.26.4
 
 joblib==1.4.2
 
